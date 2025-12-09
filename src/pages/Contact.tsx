@@ -12,19 +12,19 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    value: "hello@onlinetutor.com",
+    value: "mekanyakubow200@gmail.com",
     description: "We'll respond within 24 hours",
   },
   {
     icon: Phone,
     title: "Phone",
-    value: "+1 (555) 123-4567",
+    value: "+40773967005",
     description: "Mon-Fri, 9am-6pm EST",
   },
   {
     icon: MapPin,
     title: "Office",
-    value: "San Francisco, CA",
+    value: "Bucharest, Romania",
     description: "123 Learning Street",
   },
   {
